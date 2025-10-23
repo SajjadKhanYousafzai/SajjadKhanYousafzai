@@ -49,7 +49,7 @@ class DataScientist:
             "nlp": ["NLTK", "spaCy", "Hugging Face", "BERT", "GPT"],
             "computer_vision": ["OpenCV", "PIL", "YOLO", "ResNet", "VGG"],
             "cloud_ml": ["AWS SageMaker", "Google Cloud AI", "Azure ML"],
-            "databases": ["PostgreSQL", "MongoDB", "Neo4j", "Redis"],
+            "databases": ["PostgreSQL", "MongoDB", "MySQL", "SQLite"],
             "tools": ["Jupyter", "Docker", "Git", "MLflow", "Weights & Biases"]
         }
     
@@ -224,7 +224,7 @@ class DataScientist:
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/AI_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sajjadalishah.dev)
+[![Portfolio](https://img.shields.io/badge/AI_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sajjad-khan-yousafzai-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajjadalishah)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/sajjadalishah)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sajjadalishah)

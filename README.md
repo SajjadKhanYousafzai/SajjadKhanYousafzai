@@ -114,29 +114,59 @@ class DataScientist:
 <br/>
 <img src="https://skillicons.dev/icons?i=py,r" />
 
+<br/><br/>
+
 **Machine Learning & Deep Learning**
 <br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+
+<br/><br/>
 
 **Computer Vision**
 <br/>
 <img src="https://skillicons.dev/icons?i=opencv" />
 
+<br/><br/>
+
 **Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
+
+<br/><br/>
 
 **DevOps & Cloud**
 <br/>
 <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,kubernetes" />
 
+<br/><br/>
+
 **Big Data**
 <br/>
 <img src="https://skillicons.dev/icons?i=kafka,spark" />
 
+<br/><br/>
+
 **Dev Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter,linux,bash" />
+
+</div>
+
+<div align="center">
+
+**NLP & Data Science Libraries** *(not covered by the icon set above)*
+<br/><br/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+<br/>
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=numpy&logoColor=white)
 
 </div>
 

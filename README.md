@@ -8,7 +8,7 @@
 
 <br/>
 
-## 🧠 **FEATURED AI/ML PROJECT** - *Main Repository*
+🧠 FEATURED AI/ML PROJECT - Main Repository
 
 <div align="center">
   <a href="https://github.com/SajjadKhanYousafzai/Sajjad-Ali-Shah">
@@ -25,13 +25,10 @@
   </a>
 </div>
 
----
-
-## 🎯 **ABOUT ME**
+🎯 ABOUT ME
 
 <img align="right" alt="AI GIF" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-```python
 class DataScientist:
     def __init__(self):
         self.name = "Sajjad Ali Shah"
@@ -63,29 +60,24 @@ class DataScientist:
     
     def fun_fact(self):
         return "I can train a neural network faster than I can make coffee! ☕🤖"
-```
 
 <br clear="right"/>
 
----
-
-## 🏆 **AI/ML ACHIEVEMENTS**
+🏆 AI/ML ACHIEVEMENTS
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SajjadKhanYousafzai&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  
-[![Kaggle](https://img.shields.io/badge/Kaggle-Expert-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/sajjadalishah)
-[![Papers](https://img.shields.io/badge/Research_Papers-5-FF6B6B?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com)
-[![Certifications](https://img.shields.io/badge/ML_Certifications-8-4ECDC4?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org)
+
+
+
+
 
 </div>
 
----
-
-## 📊 **PERFORMANCE METRICS**
+📊 PERFORMANCE METRICS
 
 <div align="center">
   <table>
@@ -104,49 +96,47 @@ class DataScientist:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajjadKhanYousafzai&layout=donut&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFF&langs_count=8" alt="Top Languages" />
 </div>
 
----
-
-## 🤖 **AI/ML TECH STACK**
+🤖 AI/ML TECH STACK
 
 <div align="center">
 
-**Languages**
+Languages
 <br/>
 <img src="https://skillicons.dev/icons?i=py,r" />
 
 <br/><br/>
 
-**Machine Learning & Deep Learning**
+Machine Learning & Deep Learning
 <br/>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
 
 <br/><br/>
 
-**Computer Vision**
+Computer Vision
 <br/>
 <img src="https://skillicons.dev/icons?i=opencv" />
 
 <br/><br/>
 
-**Databases**
+Databases
 <br/>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" />
 
 <br/><br/>
 
-**DevOps & Cloud**
+DevOps & Cloud
 <br/>
 <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,kubernetes" />
 
 <br/><br/>
 
-**Big Data**
+Big Data
 <br/>
 <img src="https://skillicons.dev/icons?i=kafka,spark" />
 
 <br/><br/>
 
-**Dev Tools**
+Dev Tools
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,jupyter,linux,bash" />
 
@@ -154,33 +144,29 @@ class DataScientist:
 
 <div align="center">
 
-**NLP & Data Science Libraries** *(not covered by the icon set above)*
+NLP & Data Science Libraries (not covered by the icon set above)
 <br/><br/>
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
+
+
+
+
+
 <br/>
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=numpy&logoColor=white)
+
+
+
+
+
 
 </div>
 
----
-
-## 🔥 **CONTRIBUTION ACTIVITY**
+🔥 CONTRIBUTION ACTIVITY
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SajjadKhanYousafzai&theme=react-dark&bg_color=0D1117&color=00D9FF&line=FFD700&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
----
-
-## 📈 **DATA SCIENCE PROJECTS SHOWCASE**
+📈 DATA SCIENCE PROJECTS SHOWCASE
 
 <div align="center">
   <table>
@@ -204,85 +190,77 @@ class DataScientist:
   </table>
 </div>
 
----
-
-## 🏅 **CERTIFICATIONS & LEARNING**
+🏅 CERTIFICATIONS & LEARNING
 
 <div align="center">
-  
-[![Google AI](https://img.shields.io/badge/Google_AI_Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://cloud.google.com/certification)
-[![AWS ML](https://img.shields.io/badge/AWS_ML_Specialty-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow_Developer-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org/certificate)
-[![Coursera](https://img.shields.io/badge/ML_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://coursera.org)
+
+
+
+
+
 
 </div>
 
----
-
-## 📚 **RESEARCH & PUBLICATIONS**
+📚 RESEARCH & PUBLICATIONS
 
 <div align="center">
-  
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://researchgate.net)
-[![ArXiv](https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org)
+
+
+
+
+
 
 </div>
 
----
-
-## 🌐 **CONNECT & COLLABORATE**
+🌐 CONNECT & COLLABORATE
 
 <div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/AI_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sajjad-khan-yousafzai-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajjad-ali-shah47/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/sajjadalishah)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sajjadalishah)
-[![Twitter](https://img.shields.io/badge/AI_Insights-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sajjadalishah_ai)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajjadalishah@gmail.com)
+
+
+
+
+
+
+
 
 </div>
 
----
-
-## 💡 **FEATURED AI INSIGHTS**
+💡 FEATURED AI INSIGHTS
 
 <div align="center">
-  
-*"The future belongs to those who understand that data is not just information – it's the raw material of intelligence."*
 
-**Recent Focus Areas:**
-- 🚀 Generative AI & LLMs
-- 🔬 Explainable AI (XAI)
-- 🏥 AI in Healthcare
-- 🌍 Sustainable AI Solutions
+"The future belongs to those who understand that data is not just information – it's the raw material of intelligence."
+
+Recent Focus Areas:
+
+🚀 Generative AI & LLMs
+
+🔬 Explainable AI (XAI)
+
+🏥 AI in Healthcare
+
+🌍 Sustainable AI Solutions
 
 </div>
 
----
-
-## 🎯 **LET'S BUILD THE FUTURE TOGETHER**
+🎯 LET'S BUILD THE FUTURE TOGETHER
 
 <div align="center">
   <h2>🤖 Ready to transform data into intelligence? Let's innovate!</h2>
-  
+
   <a href="https://github.com/SajjadKhanYousafzai/Sajjad-Ali-Shah">
     <img src="https://img.shields.io/badge/🌟_EXPLORE_MY_AI_WORK-00D9FF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" alt="Explore AI Work" />
   </a>
-  
+
   <a href="https://github.com/SajjadKhanYousafzai?tab=followers">
     <img src="https://img.shields.io/badge/🤝_COLLABORATE_WITH_ME-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" alt="Collaborate" />
   </a>
-  
+
   <a href="mailto:sajjadalishah@gmail.com">
     <img src="https://img.shields.io/badge/💬_DISCUSS_AI_PROJECTS-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Discuss Projects" />
   </a>
-  
-</div>
 
----
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SajjadKhanYousafzai&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -295,6 +273,7 @@ class DataScientist:
 </div>
 
 <!-- Optional: Add a quote or motto -->
+
 <div align="center">
   <i>"Transforming raw data into actionable intelligence, one algorithm at a time." - Sajjad Ali Shah</i>
 </div>
